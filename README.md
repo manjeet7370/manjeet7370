@@ -208,7 +208,7 @@ AI chatbot built for government citizen services.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeet7370&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=manjeet7370&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
