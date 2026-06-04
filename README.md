@@ -202,19 +202,20 @@ AI chatbot built for government citizen services.
 
 ## `> github --stats`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeet7370&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet7370&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manjeet7370&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeet7370&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=manjeet7370&theme=github-dark-blue&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeet7370&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjeet7370&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" />
-</div>
+---
 
+<p align="center">
+  <i>"Code, Build, Ship — Repeat 🚀"</i>
+</p>
 ---
 
 <div align="center">
