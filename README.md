@@ -59,7 +59,7 @@ class Manjeet:
 <td width="60px" align="center">🏢</td>
 <td>
 
-**Backend Developer Intern** @ [**Eduveera**]((https://eduveera.online/)) &nbsp;·&nbsp; `Jul 2025 – Oct 2025`
+****Backend Developer Intern** @ [Eduveera](https://eduveera.online/) &nbsp;·&nbsp; `Jul 2025 – Oct 2025`
 
 - Deployed **5+ Django REST APIs** automating workflows for **1,000+ active users**
 - Built JWT-based auth & email automation → reduced admin overhead by **30%**
