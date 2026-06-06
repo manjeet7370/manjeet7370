@@ -42,24 +42,27 @@ class Manjeet:
     name       = "Manjeet Kumar"
     college    = "IIIT Bhagalpur (2023–27) • CGPA: 7.08"
     role       = "Backend & Full-Stack Developer"
-    
+
     currently  = "Building ContestHub — a full-stack coding contest platform"
     learning   = ["System Design", "DevOps", "Cloud Infrastructure"]
-    
+
     strengths  = ["REST APIs", "Database Design", "Auth Systems", "ML Pipelines"]
     contact    = "manjeetkr8975@gmail.com"
 ```
 
 ---
 
-## `> experience`
+<details>
+<summary><b>💼 Experience</b></summary>
+
+<br>
 
 <table>
 <tr>
 <td width="60px" align="center">🏢</td>
 <td>
 
-**Full-Stack Developer Intern** @ [Eduveera](https://eduveera.online/) &nbsp;·&nbsp; `Jul 2025 – Oct 2025`
+**Full-Stack Developer Intern** @ [Eduveera](https://eduveera.online/) &nbsp;·&nbsp; `Jul 2024 – Oct 2024`
 
 - Deployed **5+ Django REST APIs** automating workflows for **1,000+ active users**
 - Built JWT-based auth & email automation → reduced admin overhead by **30%**
@@ -70,16 +73,21 @@ class Manjeet:
 </tr>
 </table>
 
+</details>
+
 ---
 
-## `> projects --featured`
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="50px">🏆</td>
 <td>
 
-### [ContestHub](https://github.com/manjeet7370/ContestHub) &nbsp;`May 2026 – Present`
+### [ContestHub](https://github.com/manjeet7370/ContestHub) &nbsp;`May 2025 – Present`
 
 Full-stack coding contest platform — the real deal, not just a CRUD app.
 
@@ -88,7 +96,7 @@ Full-stack coding contest platform — the real deal, not just a CRUD app.
 - Role-based access control + JWT auth for secure contest management
 - Normalized DB schema for Users, Contests, Problems & Submissions
 - Full verdict tracking, problem organization & participation workflows
-- Built a responsive Tailwind CSS interface with protected routes, submission dashboard, and seamless contest navigation
+- Responsive Tailwind CSS interface with protected routes, submission dashboard & contest navigation
 
 </td>
 </tr>
@@ -96,16 +104,17 @@ Full-stack coding contest platform — the real deal, not just a CRUD app.
 <td align="center" width="50px">📈</td>
 <td>
 
-### [Stock Prediction Portal](https://github.com/manjeet7370/Stock-prediction-portal) &nbsp;`Aug 2025 – Jan 2026`
+### [Stock Prediction Portal](https://github.com/manjeet7370/Stock-prediction-portal)
 
 ML-powered platform to analyze & predict stock market trends.
 
 `Python` `Django` `React` `Pandas` `NumPy` `Scikit-Learn`
 
-- Built full data preprocessing pipeline: collection → cleaning → feature engineering  
-- Integrated ML models for time-series trend prediction  
+- Built full data preprocessing pipeline: collection → cleaning → feature engineering
+- Integrated ML models for time-series trend prediction
 - Interactive dashboards for market trends and model output visualization
-- Implemented JWT-based authentication for secure user access and protected routes.
+- JWT-based authentication for secure user access and protected routes
+
 </td>
 </tr>
 <tr>
@@ -117,10 +126,11 @@ ML-powered platform to analyze & predict stock market trends.
 Modern ride-booking backend with real-time tracking.
 
 `Node.js` `React` `MongoDB`
-- Built a full-stack ride booking platform with secure JWT-based authentication
-- Implemented ride lifecycle management including ride start, completion, and history tracking
-- Developed automated fare calculation and protected REST APIs using Node.js and Express
-- Designed a scalable MERN architecture for future real-time ride tracking and driver matching
+
+- Full-stack ride booking platform with JWT-based authentication
+- Ride lifecycle management: start, completion & history tracking
+- Automated fare calculation and protected REST APIs using Express
+- Scalable MERN architecture for real-time ride tracking and driver matching
 
 </td>
 </tr>
@@ -130,24 +140,26 @@ Modern ride-booking backend with real-time tracking.
 
 ### [Gov Chatbot](https://github.com/manjeet7370/gov-chatbot)
 
-AI-powered chatbot for government services, enabling easy access to schemes and citizen information.
+AI-powered chatbot for government services — built during Smart India Hackathon.
 
-`React.js` `Django` `JWT Authentication` `REST API`
+`React.js` `Django` `JWT` `REST API`
 
-- Built an AI-powered chatbot for government citizen services during SIH.
-- Developed a React frontend and Django REST API backend.
-- Implemented JWT authentication for secure user access and session management.
-- Integrated APIs to provide information on government schemes and services.
-
-
+- React frontend + Django REST API backend
+- JWT authentication for secure session management
+- Integrated APIs to surface government schemes and citizen information
 
 </td>
 </tr>
 </table>
 
+</details>
+
 ---
 
-## `> tech --stack`
+<details>
+<summary><b>🛠️ Tech Stack</b></summary>
+
+<br>
 
 <div align="center">
 
@@ -176,7 +188,7 @@ AI-powered chatbot for government services, enabling easy access to schemes and 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Tools**
 
@@ -187,9 +199,14 @@ AI-powered chatbot for government services, enabling easy access to schemes and 
 
 </div>
 
+</details>
+
 ---
 
-## `> achievements --top`
+<details>
+<summary><b>🏆 Achievements</b></summary>
+
+<br>
 
 <table>
 <tr>
@@ -210,9 +227,14 @@ AI-powered chatbot for government services, enabling easy access to schemes and 
 </tr>
 </table>
 
+</details>
+
 ---
 
-## `> github --stats`
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manjeet7370&show_icons=true&theme=github_dark&hide_border=true" height="150" />
@@ -223,19 +245,16 @@ AI-powered chatbot for government services, enabling easy access to schemes and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeet7370&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+</details>
 
-<p align="center">
-  <i>"Code, Build, Ship — Repeat 🚀"</i>
-</p>
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=manjeet7370&color=58a6ff&style=flat-square&label=Profile+Views)
+<i>"Code, Build, Ship — Repeat 🚀"</i>
 
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=manjeet7370&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
