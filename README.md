@@ -85,9 +85,10 @@ Full-stack coding contest platform — the real deal, not just a CRUD app.
 
 `React.js` `Express.js` `PostgreSQL` `Prisma ORM` `JWT` `RBAC`
 
-- Role-based access control + JWT auth for secure contest management  
-- Normalized DB schema for Users, Contests, Problems & Submissions  
+- Role-based access control + JWT auth for secure contest management
+- Normalized DB schema for Users, Contests, Problems & Submissions
 - Full verdict tracking, problem organization & participation workflows
+- Built a responsive Tailwind CSS interface with protected routes, submission dashboard, and seamless contest navigation
 
 </td>
 </tr>
@@ -104,7 +105,7 @@ ML-powered platform to analyze & predict stock market trends.
 - Built full data preprocessing pipeline: collection → cleaning → feature engineering  
 - Integrated ML models for time-series trend prediction  
 - Interactive dashboards for market trends and model output visualization
-
+- Implemented JWT-based authentication for secure user access and protected routes.
 </td>
 </tr>
 <tr>
@@ -116,6 +117,10 @@ ML-powered platform to analyze & predict stock market trends.
 Modern ride-booking backend with real-time tracking.
 
 `Node.js` `React` `MongoDB`
+- Built a full-stack ride booking platform with secure JWT-based authentication
+- Implemented ride lifecycle management including ride start, completion, and history tracking
+- Developed automated fare calculation and protected REST APIs using Node.js and Express
+- Designed a scalable MERN architecture for future real-time ride tracking and driver matching
 
 </td>
 </tr>
@@ -125,9 +130,16 @@ Modern ride-booking backend with real-time tracking.
 
 ### [Gov Chatbot](https://github.com/manjeet7370/gov-chatbot)
 
-AI chatbot built for government citizen services.
+AI-powered chatbot for government services, enabling easy access to schemes and citizen information.
 
-`JavaScript`
+`React.js` `Django` `JWT Authentication` `REST API`
+
+- Built an AI-powered chatbot for government citizen services during SIH.
+- Developed a React frontend and Django REST API backend.
+- Implemented JWT authentication for secure user access and session management.
+- Integrated APIs to provide information on government schemes and services.
+
+
 
 </td>
 </tr>
